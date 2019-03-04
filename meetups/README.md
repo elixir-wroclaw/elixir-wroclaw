@@ -2,7 +2,7 @@
 
 ## 2019-02-27 № 2
 
-- `Scratching the surface of hunky-dory Elixir features - Adam Hodowany`
+- `Scratching the surface of hunky-dory Elixir features - Adam Hodowany` [web](https://www.slideshare.net/AdamHodowany/scratching-the-surface-of-hunkydory-elixir-features)
 - `Stream.unfold - Jan Dudulski` [web](https://slides.com/jandudulski/stream-unfold/)
 
 ## 2019-01-23 № 1
