@@ -7,7 +7,7 @@
 
 ## meetups & presentations
 - [community updates](https://elixir-wroclaw.github.io/elixir-community/)
-- [past meetups and presentaions](./meetups/README.md)
+- [past meetups and presentations](./meetups/README.md)
 - [backlog](./backlog/README.md)
 
 ## resources
