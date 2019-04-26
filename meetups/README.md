@@ -4,7 +4,7 @@
 
 ## 2019-03-27 № 3
 
-- `Profiling Elixir - Lucjan Suski`
+- `Profiling Elixir - Lucjan Suski` [web](https://slides.com/lucjansuski/profiling-elixir)
 - `Absinthe - GraphQL demo with Elixir - Bartłomiej Korpus` [pdf](./2019-03-27/absinthe_graphql/absinthe_graphql.pdf)
 - `- Mieszko Wawrzyniak`
 - `mailboxes are unbounded - Fabian Krol` [web](https://fabiankrol.github.io/mailboxes-are-unbounded/)
