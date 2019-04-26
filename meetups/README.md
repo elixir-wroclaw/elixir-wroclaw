@@ -2,6 +2,9 @@
 
 ## 2019-04-24 № 4
 
+- `Beyond request-response cycle - Robert Szczygieł` [pdf](./2019-04-24/Beyond_request-response_Cycle.pdf)
+- `Debugging Elixir in production - Marcin Wysocki`
+
 ## 2019-03-27 № 3
 
 - `Profiling Elixir - Lucjan Suski` [web](https://slides.com/lucjansuski/profiling-elixir)
