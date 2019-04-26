@@ -1,5 +1,10 @@
 # meetups
 
+## 2019-05-22 № 5
+
+- `Lukasz Skotarek`
+- `Fabian Krol`
+
 ## 2019-04-24 № 4
 
 - `Beyond request-response cycle - Robert Szczygieł` [pdf](./2019-04-24/Beyond_request-response_Cycle.pdf)
@@ -9,7 +14,7 @@
 
 - `Profiling Elixir - Lucjan Suski` [web](https://slides.com/lucjansuski/profiling-elixir)
 - `Absinthe - GraphQL demo with Elixir - Bartłomiej Korpus` [pdf](./2019-03-27/absinthe_graphql/absinthe_graphql.pdf)
-- `- Mieszko Wawrzyniak`
+- `Mieszko Wawrzyniak`
 - `mailboxes are unbounded - Fabian Krol` [web](https://fabiankrol.github.io/mailboxes-are-unbounded/)
 
 ## 2019-02-27 № 2
