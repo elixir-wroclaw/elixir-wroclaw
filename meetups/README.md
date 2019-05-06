@@ -9,6 +9,7 @@
 
 - `Beyond request-response cycle - Robert Szczygieł` [pdf](./2019-04-24/Beyond_request-response_Cycle.pdf)
 - `Debugging Elixir in production - Marcin Wysocki` [pdf](./2019-04-24/debugging_elixir_in_production.pdf)
+- `Persisting multiple objects at once - Przemysław Szyszka` [pdf](./2019-04-24/persisting_multiple_objects_at_once.pdf)
 
 ## 2019-03-27 № 3
 
