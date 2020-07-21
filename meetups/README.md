@@ -1,5 +1,16 @@
 # meetups
 
+## 2019-07-20 № 8
+
+- 'Niezawodność języków programowania na bazie Elixir i Erlang' - Krzysztof Kempiński
+
+## 2019-05-22 № 7
+- 'Who supervises supervisors?' - Łukasz Niemier - [web](https://speakerdeck.com/hauleth/who-supervises-supervisors) [recording](https://www.youtube.com/watch?v=YQFF7y821PI)
+
+## 2019-05-22 № 6
+- 'Introducing Phoenix LiveData' - Lucjan Suski - [recording](https://www.youtube.com/watch?v=fvNy9bh8_vs)
+
+
 ## 2019-05-22 № 5
 
 - `Lukasz Skotarek`
