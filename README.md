@@ -1,12 +1,12 @@
 # Elixir Wroclaw
 
+You can suggest topic you want to hear about using [google form](https://forms.gle/GLuXdvqrW54nJtmH8)
+
 [meetup group](https://www.meetup.com/Elixir-Wroclaw/)
 
 [slack](https://join.slack.com/t/elixir-wroclaw/shared_invite/enQtNTMxOTI3NDg3NzQ2LTFlNmM4M2MyMDAyZGE2NjkxNTMyODNjZDhjM2JmYjJiY2FiOTgxYWFmYzg0MThlYTE2ZGJiMGE5OTFiMDgzZDU)
 
-You can suggest topic you want to hear about using [google form](https://forms.gle/GLuXdvqrW54nJtmH8)
-
-# meetups
+## meetups
 
 #### 2023-10-12 
 - Fabian Król: `:dbg intro` [web](https://fabiankrol.github.io/dbg_intro/)
