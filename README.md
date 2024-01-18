@@ -7,6 +7,11 @@
 You can suggest topic you want to hear about using [google form](https://forms.gle/GLuXdvqrW54nJtmH8)
 # meetups
 
+#### 2023-10-12 
+- Fabian Król: `:dbg intro` [web](https://fabiankrol.github.io/dbg_intro/)
+- Mateusz Tuński: `Streamlining Asynchronous Workflows with Oban` [web](https://tunski.co/decks/streamlining-asynchronous-workflows-with-oban)
+- Mieszko Wawrzyniak: `Supercharging Elixir with Rust: An Introduction to Rustler`
+
 #### 2019-07-20 № 8
 
 - Krzysztof Kempiński `Niezawodność języków programowania na bazie Elixir i Erlang`
