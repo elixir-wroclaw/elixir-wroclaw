@@ -4,6 +4,7 @@
 
 [slack](https://join.slack.com/t/elixir-wroclaw/shared_invite/enQtNTMxOTI3NDg3NzQ2LTFlNmM4M2MyMDAyZGE2NjkxNTMyODNjZDhjM2JmYjJiY2FiOTgxYWFmYzg0MThlYTE2ZGJiMGE5OTFiMDgzZDU)
 
+You can suggest topic you want to hear about using [google form](https://forms.gle/GLuXdvqrW54nJtmH8)
 # meetups
 
 #### 2019-07-20 № 8
